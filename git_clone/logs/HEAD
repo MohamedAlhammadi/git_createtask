@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 8143a6e1e2f63e9a93a15da01f26c0c05033db28 MAlhammadi <moh.alhammadi96@gmail.com> 1667327925 +0400	commit (initial): Clone commit
+8143a6e1e2f63e9a93a15da01f26c0c05033db28 8143a6e1e2f63e9a93a15da01f26c0c05033db28 MAlhammadi <moh.alhammadi96@gmail.com> 1667327986 +0400	checkout: moving from main to test_remote_repo
+8143a6e1e2f63e9a93a15da01f26c0c05033db28 92a67bd6d2b10923ac209c66578ff7b11efa609f MAlhammadi <moh.alhammadi96@gmail.com> 1667328068 +0400	commit: Test commit
+92a67bd6d2b10923ac209c66578ff7b11efa609f 7ad7d28d59eb202a19302eec1122cb228480a92c MAlhammadi <moh.alhammadi96@gmail.com> 1667328336 +0400	commit: After push
+7ad7d28d59eb202a19302eec1122cb228480a92c 7ad7d28d59eb202a19302eec1122cb228480a92c MAlhammadi <moh.alhammadi96@gmail.com> 1667328539 +0400	checkout: moving from test_remote_repo to test_remote_repo
+7ad7d28d59eb202a19302eec1122cb228480a92c 7ad7d28d59eb202a19302eec1122cb228480a92c MAlhammadi <moh.alhammadi96@gmail.com> 1667328696 +0400	checkout: moving from test_remote_repo to master
