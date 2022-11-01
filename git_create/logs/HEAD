@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 8577b2c19af5935f55fbbacac7e948e0bcbe919d MAlhammadi <moh.alhammadi96@gmail.com> 1667325068 +0400	commit (initial): First commit
+8577b2c19af5935f55fbbacac7e948e0bcbe919d 008a203d4f001b8c910a0dabf28bd8728f3f0834 MAlhammadi <moh.alhammadi96@gmail.com> 1667325460 +0400	commit: 2nd commit
+008a203d4f001b8c910a0dabf28bd8728f3f0834 008a203d4f001b8c910a0dabf28bd8728f3f0834 MAlhammadi <moh.alhammadi96@gmail.com> 1667325741 +0400	checkout: moving from master to test1
+008a203d4f001b8c910a0dabf28bd8728f3f0834 008a203d4f001b8c910a0dabf28bd8728f3f0834 MAlhammadi <moh.alhammadi96@gmail.com> 1667325923 +0400	checkout: moving from test1 to master
+008a203d4f001b8c910a0dabf28bd8728f3f0834 008a203d4f001b8c910a0dabf28bd8728f3f0834 MAlhammadi <moh.alhammadi96@gmail.com> 1667325957 +0400	checkout: moving from master to test1
+008a203d4f001b8c910a0dabf28bd8728f3f0834 008a203d4f001b8c910a0dabf28bd8728f3f0834 MAlhammadi <moh.alhammadi96@gmail.com> 1667325999 +0400	checkout: moving from test1 to master
+008a203d4f001b8c910a0dabf28bd8728f3f0834 0000000000000000000000000000000000000000 MAlhammadi <moh.alhammadi96@gmail.com> 1667326601 +0400	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 008a203d4f001b8c910a0dabf28bd8728f3f0834 MAlhammadi <moh.alhammadi96@gmail.com> 1667326601 +0400	Branch: renamed refs/heads/master to refs/heads/main
